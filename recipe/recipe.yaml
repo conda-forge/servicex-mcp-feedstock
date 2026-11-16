@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.0"
+  version: "0.3.1"
 
 package:
   name: servicex-mcp
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/servicex_mcp/servicex_mcp-${{ version }}.tar.gz
-  sha256: b709d33ebe95cd17ada531d27dee293e75e334daa860908763921455ec447b6b
+  sha256: c3642c42ef83d6741d4acf83ea6bc2134f74594e99cead263e18a0715bd24f61
 
 build:
   number: 0
